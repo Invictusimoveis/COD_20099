@@ -1,0 +1,22 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_A46DA372_AACC_EBD9_41E2_5A92481E4E7E.toolTip = Sala
+
+## Media
+
+### Title
+panorama_A0872AC1_AAC4_253D_41C8_ACB7EA68F09E.label = 1
+panorama_A0861208_AAC4_254B_41CA_7423CAAB3B3F.label = 2
+panorama_A08668FA_AAC4_26CE_41DA_79A9E7F453D2.label = 3
+panorama_A08BE051_AAC4_25DD_419F_A714D8ACF0D9.label = 4
+panorama_A61155AC_AAC4_6F4B_41D2_AED4038D2D1B.label = 5
+
+## Tour
+
+### Description
+
+### Title
+tour.name = José Zap_20099
